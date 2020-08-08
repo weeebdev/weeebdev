@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlphaKennyBudy&count_private=true&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaKennyBudy&theme=dracula)  
+![](https://wakatime.com/share/@adilDev/fe99aaf6-0a6d-4ce4-8185-dc2748f442b1.svg)
