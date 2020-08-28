@@ -1,6 +1,6 @@
-<h2>おはよう (Ohayo~)👋, I'm Adil Akhmetov! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Tutturu~<img src="https://i.postimg.cc/SsgbNNsr/tuturu.gif" width="45">, I'm Adil Akhmetov! <img src="https://i.postimg.cc/T1zFNy1t/miku-dance.gif" width="50"></h2>
 <img align='right' src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fb1161faa8a0e620b2dc62341f8838b30%2Ftenor.gif%3Fitemid%3D13405588&f=1&nofb=1" width="230">
-<p><em>3rd year student at <a href="https://sdu.edu.kz/">Suleyman Demirel University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>3rd year student at <a href="https://sdu.edu.kz/">Suleyman Demirel University </a><img src="https://i.postimg.cc/650nWkLQ/gotoyubun.gif" width="30"> 
 </em></p>
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow) -->
