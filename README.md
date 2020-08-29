@@ -1,4 +1,3 @@
-<img src="https://waifu.now.sh/sfw" width="100%" alt="">
 <h2>Tutturu~<img src="https://i.postimg.cc/SsgbNNsr/tuturu.gif" width="45" alt="">, I'm Adil Akhmetov! <img src="https://i.postimg.cc/T1zFNy1t/miku-dance.gif" width="50" alt=""></h2>
 <img align='right' src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fb1161faa8a0e620b2dc62341f8838b30%2Ftenor.gif%3Fitemid%3D13405588&f=1&nofb=1" width="230" alt="">
 <p><em>3rd year student at <a href="https://sdu.edu.kz/">Suleyman Demirel University </a><img src="https://i.postimg.cc/650nWkLQ/gotoyubun.gif" width="30" alt=""> 
@@ -139,3 +138,4 @@ Kotlin                   1 repos             █░░░░░░░░░░�
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alphakennybudy&repo=waifu.pics)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+<img src="https://waifu.now.sh/sfw" width="100%" alt="">
