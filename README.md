@@ -14,19 +14,19 @@
 ```javascript
 const adil = {
   pronouns: "He" | "Him",
-  code: ["Javascript ", "Typescript ﯤ", "Python ", "Java "],
+  code: ["Javascript", "Typescript", "Python", "Java"],
   askMeAbout: ["web dev", "tech", "app dev", "anime"],
   technologies: {
     mobileApp: ["Kotlin (a bit)"],
     frontEnd: {
-      js: ["React ﰆ", "Next"],
+      js: ["React", "Next"],
       css: ["AntDesign", "react-bootstrap"],
     },
     backEnd: {
       js: ["node", "express"],
     },
     devOps: ["Docker🐳"],
-    databases: ["Mongo ", "MSSQL", "Oracle"],
+    databases: ["mongo", "MSSQL", "Oracle"],
     misc: ["Firebase", "selenium"],
   },
   architecture: ["Serverless Architecture", "Single page applications"],
