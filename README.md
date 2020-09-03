@@ -51,7 +51,7 @@ const adil = {
 
 > 🏆 598 Contributions in the Year 2020
  > 
-> 📦 36.4 kB Used in Github's Storage 
+> 📦 36.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
