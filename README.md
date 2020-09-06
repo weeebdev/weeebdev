@@ -49,7 +49,7 @@ const adil = {
 
 **🐱 My Github Data** 
 
-> 🏆 601 Contributions in the Year 2020
+> 🏆 605 Contributions in the Year 2020
  > 
 > 📦 37.7 kB Used in Github's Storage 
  > 
