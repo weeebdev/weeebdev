@@ -11,8 +11,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt=""> A little more about me...
 
-<pre>
-let adil = {
+```javascript
+const adil = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Typescript", "Python", "Java"],
   askMeAbout: ["web dev", "tech", "app dev", "anime"],
@@ -33,7 +33,7 @@ let adil = {
   currentProject: "Rest ⛱",
   funFact: "I am not funny",
 };
-</pre>
+```
 
 ---
 
