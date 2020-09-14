@@ -18,7 +18,7 @@ let adil = {
   code: ["Javascript", "Typescript", "Python", "Java"],
   askMeAbout: ["web dev", "tech", "app dev", "anime"],
   technologies: {
-    mobileApp: ["Kotlin (a bit)"],
+    mobileApp: ["Java", "Kotlin"],
     frontEnd: {
       js: ["React", "Next"],
       css: ["AntDesign", "react-bootstrap"],
@@ -29,6 +29,7 @@ let adil = {
     devOps: ["Docker🐳"],
     databases: ["mongo", "MSSQL", "Oracle"],
     misc: ["Firebase", "selenium"],
+    deploy: ["Vercel", "Heroku"]
   },
   architecture: ["Serverless Architecture", "Single page applications"],
   currentProject: "Rest ⛱",
@@ -141,4 +142,4 @@ Kotlin                   1 repos             █░░░░░░░░░░�
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alphakennybudy&repo=waifu.pics)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-<img src="https://waifu.now.sh/sfw" width="100%" alt="">
+<img src="https://waifu.now.sh/sfw/random" width="100%" alt="">
