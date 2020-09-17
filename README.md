@@ -53,7 +53,7 @@ let adil = {
 
 > 🏆 615 Contributions in the Year 2020
  > 
-> 📦 41.6 kB Used in Github's Storage 
+> 📦 41.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
