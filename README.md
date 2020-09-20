@@ -51,7 +51,7 @@ let adil = {
 
 **🐱 My Github Data** 
 
-> 🏆 615 Contributions in the Year 2020
+> 🏆 616 Contributions in the Year 2020
  > 
 > 📦 41.8 kB Used in Github's Storage 
  > 
