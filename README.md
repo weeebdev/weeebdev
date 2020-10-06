@@ -8,7 +8,7 @@
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-adildev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adildev/)](https://www.linkedin.com/in/adildev/)
 ![GitHub followers](https://img.shields.io/github/followers/alphakennybudy?label=Follow&style=social)
-[![Leetcode badge](https://leetcode-badge.chyroc.cn/?name=user3449f)](https://leetcode.com/user3449f/)
+<!-- [![Leetcode badge](https://leetcode-badge.chyroc.cn/?name=user3449f)](https://leetcode.com/user3449f/) -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt=""> A little more about me...
 
