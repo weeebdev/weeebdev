@@ -140,4 +140,4 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alphakennybudy&repo=waifu.pics)](https://github.com/AlphaKennyBudy/waifu.pics)
 
 </details>
-<img src="https://waifu.now.sh/sfw/random" width="100%" alt="">
+<img src="https://waifu.now.sh/sfw/waifu" width="100%" alt="">
