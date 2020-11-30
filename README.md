@@ -137,7 +137,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 <summary><b>My projects</b></summary>
 <hr>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alphakennybudy&repo=waifu.pics)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alphakennybudy&repo=waifu.pics)](https://github.com/AlphaKennyBudy/waifu.pics)
 
 </details>
 <img src="https://waifu.now.sh/sfw/random" width="100%" alt="">
