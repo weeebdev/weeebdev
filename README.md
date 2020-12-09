@@ -47,7 +47,7 @@ let adil = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -102,10 +102,12 @@ Fish                     12 mins             █░░░░░░░░░░�
 
 🐱‍💻 Projects: 
 Unknown Project          2 hrs 51 mins       ████████████████████░░░░░   81.13% 
-Mentorship               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.87%
+Mentorship               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Windows                  3 hrs 31 mins       █████████████████████████   100.0%
+Windows                  3 hrs 31 mins       █████████████████████████   100.0% 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
