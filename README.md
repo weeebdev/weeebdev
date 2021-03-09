@@ -40,7 +40,7 @@ let adil = {
 ---
 
 <details>
-<summary><b>Some boring stats</b><br></summary>
+<summary><b>Wakatime stats</b><br></summary>
 <div>
 <hr/>
 
@@ -136,10 +136,22 @@ HTML                     5 repos             ███░░░░░░░░�
 </details>
 
 <details>
-<summary><b>My projects</b></summary>
+<summary><b>Projects</b></summary>
 <hr>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=weeebdev&repo=waifu.pics&theme=dracula)](https://github.com/weeebdev/waifu.pics)
+|Project|Status|
+|---|---|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=weeebdev&repo=waifu.pics&theme=dracula)](https://github.com/weeebdev/waifu.pics)|[![time tracker](https://wakatime.com/badge/github/weeebdev/waifu.pics.svg)](https://wakatime.com/badge/github/weeebdev/waifu.pics)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mentor-ship&repo=mentorship&theme=dracula)](https://github.com/Mentor-ship/Mentorship)|[![time tracker](https://wakatime.com/badge/github/Mentor-ship/Mentorship.svg)](https://wakatime.com/badge/github/Mentor-ship/Mentorship)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=masters-and-Abu&repo=tolqyn&theme=dracula)](https://github.com/Masters-and-Abu/Tolqyn)|[![time tracker](https://wakatime.com/badge/github/Masters-and-Abu/Tolqyn.svg)](https://wakatime.com/badge/github/Masters-and-Abu/Tolqyn)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dracula&repo=unigram&theme=dracula)](https://github.com/dracula/unigram)||
 
+</details>
+
+<details>
+  <summary><b>Karma</b></summary>
+  <hr>
+  
+  [![Source Karma badge for @weeebdev](https://sourcekarma-og.vercel.app/api/weeebdev/github)](https://sourcekarma.vercel.app/weeebdev)
 </details>
 <img src="https://waifu.now.sh/sfw/hug" width="100%" alt="">
