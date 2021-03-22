@@ -1,7 +1,7 @@
 <h2>Tutturu~<img src="img/tuturu.gif" width="45" alt="">, I'm Adil Akhmetov! <img src="img/miku-dance.gif" width="50" alt=""></h2>
 <img align='right' src="img/miku.gif" width="230" alt="">
 <p><em>3rd year student at <a href="https://sdu.edu.kz/">Suleyman Demirel University</a>/
-<a href="https://sdu.edu.kz/"><img src="img/sdu-ahegao.svg" align="right"width="100" alt=""></a>
+<a href="https://sdu.edu.kz/"><img src="img/sdu-ahegao.svg" align="right" width="100" alt=""></a>
 </em></p>
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow) -->
@@ -40,7 +40,17 @@ let adil = {
 ---
 
 <details>
-<summary><b>Wakatime stats</b><br></summary>
+  <summary><b>🌍 The languages I use</b></summary>
+  <hr>
+  
+  
+| ⏰ Past month | ⌛️ Past Year |
+|---|---|
+| <a href="https://wakatime.com/@adildev"><img src="https://wakatime.com/share/@adilDev/4ebe423a-b427-4031-b073-d221b9528df7.svg" height="300px"></a> | <a href="https://wakatime.com/@adildev"><img src="https://wakatime.com/share/@adilDev/1b4a30f1-9a7f-47fe-b8d2-0fc90f37fcd3.svg" height="300px"></a> |
+</details>
+
+<details>
+<summary><b>📊 Wakatime stats</b><br></summary>
 <div>
 <hr/>
 
@@ -138,7 +148,7 @@ HTML                     5 repos             ███░░░░░░░░�
 </details>
 
 <details>
-<summary><b>Projects</b></summary>
+<summary><b>🧾 Projects</b></summary>
 <hr>
 
 |Project|Status|
@@ -151,9 +161,8 @@ HTML                     5 repos             ███░░░░░░░░�
 </details>
 
 <details>
-  <summary><b>Karma</b></summary>
+  <summary><b>🙇‍ Karma</b></summary>
   <hr>
-  
-  [![Source Karma badge for @weeebdev](https://sourcekarma-og.vercel.app/api/weeebdev/github)](https://sourcekarma.vercel.app/weeebdev)
+  <a href="https://sourcekarma.vercel.app/weeebdev"><img src="https://sourcekarma-og.vercel.app/api/weeebdev/github" alt="" align="center" width="70%"/></a>
 </details>
-<img src="https://waifu.now.sh/sfw/hug" width="100%" alt="">
+<img src="https://waifu.now.sh/sfw/hug" width="100%" alt="" align="center">
