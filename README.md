@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/weeebdev?label=Follow)](https://twitter.com/intent/follow?screen_name=weeebdev)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-adildev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adildev/)](https://www.linkedin.com/in/adildev/)
 ![GitHub followers](https://img.shields.io/github/followers/weeebdev?label=Follow&style=flat-square)
-![Gitlab](https://img.shields.io/badge/Gitlab-weeebdev?style=flat-square&logo=gitlab&link=https://gitlab.com/weeebdev)
+[![Gitlab](https://img.shields.io/badge/Gitlab-weeebdev-orange?style=flat-square&logo=gitlab)](https://gitlab.com/weeebdev)
 ![](https://visitor-badge.glitch.me/badge?page_id=weeebdev.weeebdev)
 ![Waka Readme](https://github.com/weeebdev/weeebdev/workflows/Waka%20Readme/badge.svg)
 <!-- [![Leetcode badge](https://leetcode-badge.chyroc.cn/?name=user3449f)](https://leetcode.com/user3449f/) -->
