@@ -63,7 +63,7 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -108,16 +108,16 @@ Sunday       100 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    51 hrs 59 mins      █████████████████████████   100.0%
+Other                    52 hrs 33 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Unknown Editor           51 hrs 59 mins      █████████████████████████   100.0%
+Unknown Editor           52 hrs 33 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Browsing                 51 hrs 59 mins      █████████████████████████   100.0%
+Browsing                 52 hrs 33 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Unknown OS               51 hrs 59 mins      █████████████████████████   100.0%
+Unknown OS               52 hrs 33 mins      █████████████████████████   100.0%
 
 ```
 
@@ -138,7 +138,7 @@ Java                     5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/weeebdev/weeebdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2021
+ Last Updated on 16/08/2021
 <!--END_SECTION:waka-->
 </div>
 </details>
