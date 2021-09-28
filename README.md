@@ -173,4 +173,8 @@ HTML                     5 repos             ██░░░░░░░░░�
   <a href="https://sourcekarma.vercel.app/weeebdev"><img src="https://sourcekarma-og.vercel.app/api/weeebdev/github" alt="" align="left"/></a>
   <img src="https://github-readme-stats.vercel.app/api?username=weeebdev&show_icons=true&theme=dracula&hide_title=true&hide_rank=true&count_private=true" align="right"/>
 </details>
-<img src="https://waifu.now.sh/sfw/hug" width="100%" alt="" align="center">
+<div align="center">
+  <kbd>
+    <img src="https://waifu.now.sh/sfw/hug" alt="">
+  </kbd>
+</div>
