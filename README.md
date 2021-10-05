@@ -10,6 +10,7 @@
 [![Gitlab](https://img.shields.io/badge/Gitlab-weeebdev-orange?style=flat-square&logo=gitlab)](https://gitlab.com/weeebdev)
 ![](https://visitor-badge.glitch.me/badge?page_id=weeebdev.weeebdev)
 ![Waka Readme](https://github.com/weeebdev/weeebdev/workflows/Waka%20Readme/badge.svg)
+[![wakatime](https://wakatime.com/badge/user/1fb6390f-222e-4088-8de8-840ef1443858.svg)](https://wakatime.com/@1fb6390f-222e-4088-8de8-840ef1443858)
 <!-- [![Leetcode badge](https://leetcode-badge.chyroc.cn/?name=user3449f)](https://leetcode.com/user3449f/) -->
 
 👇 Hit in your console or terminal to connect with me.
