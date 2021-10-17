@@ -64,7 +64,7 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -72,7 +72,7 @@ let adil = {
 
 > 🏆 548 Contributions in the Year 2021
  > 
-> 📦 266.4 kB Used in GitHub's Storage 
+> 📦 266.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -134,11 +134,11 @@ Linux                    15 hrs 41 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.82% 
-Jupyter Notebook         11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91%
+JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Jupyter Notebook         11 repos            █████░░░░░░░░░░░░░░░░░░░░   19.64% 
+Go                       7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71%
 
 ```
 
@@ -148,7 +148,7 @@ Go                       6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/weeebdev/weeebdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2021
+ Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
 </div>
 </details>
