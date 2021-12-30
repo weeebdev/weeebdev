@@ -111,20 +111,16 @@ Sunday       59 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-TypeScript               39 mins             █████████████████████████   99.78% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   99.78% 
-Fish                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Holy Waterfall 0         39 mins             ████████████████████████░   97.6% 
-Billowing Brook 89       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19% 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -145,7 +141,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/weeebdev/weeebdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
 </div>
 </details>
