@@ -66,7 +66,7 @@ let adil = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C330%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -141,7 +141,7 @@ TypeScript               6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/weeebdev/weeebdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/12/2021
+ Last Updated on 31/12/2021
 <!--END_SECTION:waka-->
 </div>
 </details>
