@@ -64,7 +64,7 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C656%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -146,7 +146,7 @@ HTML                     6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/weeebdev/weeebdev/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2022 01:27:04 UTC
+ Last Updated on 15/08/2022 01:33:55 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
