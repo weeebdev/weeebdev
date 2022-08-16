@@ -1,6 +1,6 @@
 <h2>Tutturu~<img src="img/tuturu.gif" width="45" alt="">, I'm Adil Akhmetov! <img src="img/miku-dance.gif" width="50" alt=""></h2>
 <img align='right' src="img/miku.gif" width="230" alt="">
-<p><em>4th year student at <a href="https://sdu.edu.kz/">Suleyman Demirel University</a>
+<p><em>1st year MSc at <a href="https://nu.edu.kz/">Nazarbayev University</a>
 <a href="https://sdu.edu.kz/"><img src="img/sdu-ahegao.svg" align="right" width="100" alt=""></a>
 </em></p>
 
