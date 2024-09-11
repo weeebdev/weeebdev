@@ -63,7 +63,7 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C846%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C845%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,7 +73,7 @@ let adil = {
 
 > 📦 578.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,386 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -148,7 +148,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2024 01:36:10 UTC
+ Last Updated on 11/09/2024 01:35:12 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
