@@ -63,6 +63,8 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C989%20hrs%2018%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.7%20million%20lines%20of%20code-blue)
@@ -71,22 +73,22 @@ let adil = {
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 211 Contributions in the Year 2025
+> 🏆 215 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 73 Public Repositories 
+> 📜 75 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
  > 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-TypeScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Nix                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+TypeScript               14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Python                   13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Nix                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Smali                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 
@@ -96,7 +98,7 @@ Smali                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2025 01:45:33 UTC
+ Last Updated on 18/09/2025 01:46:58 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
