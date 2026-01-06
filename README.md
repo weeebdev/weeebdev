@@ -63,11 +63,11 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C358%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C358%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.74%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.74%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -81,6 +81,52 @@ let adil = {
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                454 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+🌆 Daytime                4097 commits        ███████████░░░░░░░░░░░░░░   45.81 % 
+🌃 Evening                3474 commits        ██████████░░░░░░░░░░░░░░░   38.85 % 
+🌙 Night                  918 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1068 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Tuesday                  2196 commits        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Wednesday                1076 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Thursday                 1211 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Friday                   552 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Saturday                 1043 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Sunday                   1797 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Almaty
+
+💬 Programming Languages: 
+Other                    1 hr 57 mins        ██████████████░░░░░░░░░░░   55.55 % 
+Markdown                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+HTTP Request             29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+CSV                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+
+🔥 Editors: 
+fish                     1 hr 49 mins        █████████████░░░░░░░░░░░░   51.99 % 
+Cursor                   1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   30.22 % 
+Postman                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+TablePlus                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+
+🐱‍💻 Projects: 
+Terminal                 2 hrs 19 mins       █████████████████░░░░░░░░   66.01 % 
+mat364finalprojects      1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   33.99 % 
+
+💻 Operating System: 
+Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -98,7 +144,7 @@ Shell                    4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 02:16:37 UTC
+ Last Updated on 06/01/2026 02:06:41 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
