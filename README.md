@@ -65,7 +65,7 @@ let adil = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C358%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -108,19 +108,18 @@ Sunday                   1797 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    1 hr 57 mins        █████████████████████░░░░   84.15 % 
-HTTP Request             22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Other                    1 hr 13 mins        ███████████████████░░░░░░   77.01 % 
+HTTP Request             22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
 
 🔥 Editors: 
-fish                     1 hr 49 mins        ████████████████████░░░░░   78.75 % 
-Postman                  22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-TablePlus                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+fish                     1 hr 13 mins        ███████████████████░░░░░░   77.01 % 
+Postman                  22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
 
 🐱‍💻 Projects: 
-Terminal                 2 hrs 19 mins       █████████████████████████   100.00 % 
+Terminal                 1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -140,7 +139,7 @@ Shell                    4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2026 02:06:12 UTC
+ Last Updated on 08/01/2026 02:06:39 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
