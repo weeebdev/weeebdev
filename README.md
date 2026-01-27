@@ -63,9 +63,9 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C360%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C360%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.65%20million%20lines%20of%20code-blue?style=flat)
 
@@ -108,17 +108,16 @@ Sunday                   1797 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    6 mins              ████████████████████████░   94.64 % 
-HTTP Request             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Other                    6 mins              ████████████████████░░░░░   78.97 % 
+HTTP Request             1 min               █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
 
 🔥 Editors: 
-fish                     6 mins              ████████████████████████░   94.64 % 
-Postman                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+fish                     6 mins              ████████████████████░░░░░   78.97 % 
+Postman                  1 min               █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
 
 🐱‍💻 Projects: 
-SDU Courses              7 mins              █████████████████████████   100.00 % 
+SDU Courses              6 mins              ████████████████████░░░░░   79.82 % 
+Terminal                 1 min               █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
 
 💻 Operating System: 
 Mac                      7 mins              █████████████████████████   100.00 % 
@@ -141,7 +140,7 @@ Shell                    4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2026 02:17:24 UTC
+ Last Updated on 27/01/2026 02:14:38 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
