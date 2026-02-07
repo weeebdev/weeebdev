@@ -65,7 +65,7 @@ let adil = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C362%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -108,19 +108,17 @@ Sunday                   1797 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    28 mins             ████████████████████████░   96.33 % 
-HTTP Request             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Other                    21 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notes                    14 mins             ████████████░░░░░░░░░░░░░   48.81 % 
-fish                     14 mins             ████████████░░░░░░░░░░░░░   47.51 % 
-Postman                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Notes                    14 mins             █████████████████░░░░░░░░   68.34 % 
+fish                     6 mins              ████████░░░░░░░░░░░░░░░░░   31.66 % 
 
 🐱‍💻 Projects: 
-Terminal                 30 mins             █████████████████████████   100.00 % 
+Terminal                 21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -140,7 +138,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2026 02:32:30 UTC
+ Last Updated on 07/02/2026 02:28:22 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
