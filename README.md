@@ -63,7 +63,7 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C366%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C367%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -73,7 +73,7 @@ let adil = {
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2026
+> 🏆 13 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -131,11 +131,11 @@ Mac                      4 hrs 22 mins       ███████████�
 **I Mostly Code in Go** 
 
 ```text
-Go                       15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Jupyter Notebook         15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Go                       16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Jupyter Notebook         15 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Python                   12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -145,7 +145,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2026 02:37:54 UTC
+ Last Updated on 17/02/2026 02:34:53 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
