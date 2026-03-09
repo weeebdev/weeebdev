@@ -63,7 +63,7 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C372%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C372%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -108,16 +108,16 @@ Sunday                   1797 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    9 mins              █████████████████████████   100.00 % 
+Other                    37 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-fish                     9 mins              █████████████████████████   100.00 % 
+fish                     37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Terminal                 9 mins              █████████████████████████   100.00 % 
+Terminal                 37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -137,7 +137,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2026 02:35:14 UTC
+ Last Updated on 09/03/2026 02:36:35 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
