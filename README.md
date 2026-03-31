@@ -63,9 +63,9 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C378%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C379%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48.79%20million%20lines%20of%20code-blue?style=flat)
 
@@ -108,16 +108,20 @@ Sunday                   1799 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    28 mins             █████████████████████████   100.00 % 
+Other                    1 hr 42 mins        ████████████████████████░   96.22 % 
+HTTP Request             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-fish                     28 mins             █████████████████████████   100.00 % 
+TablePlus                54 mins             █████████████░░░░░░░░░░░░   50.82 % 
+fish                     48 mins             ███████████░░░░░░░░░░░░░░   45.40 % 
+Postman                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🐱‍💻 Projects: 
-Terminal                 28 mins             █████████████████████████   100.00 % 
+Terminal                 1 hr 45 mins        █████████████████████████   98.40 % 
+icecco                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Mac                      28 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -137,7 +141,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2026 02:54:37 UTC
+ Last Updated on 31/03/2026 02:48:43 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
