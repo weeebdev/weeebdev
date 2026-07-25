@@ -63,6 +63,8 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C625%20hrs%2021%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.82%20million%20lines%20of%20code-blue?style=flat)
@@ -79,54 +81,6 @@ let adil = {
  > 
 > 🔑 51 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1541 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-🌆 Daytime                5571 commits        ████████░░░░░░░░░░░░░░░░░   30.70 % 
-🌃 Evening                5764 commits        ████████░░░░░░░░░░░░░░░░░   31.76 % 
-🌙 Night                  5273 commits        ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Tuesday                  4026 commits        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Wednesday                3087 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Thursday                 1320 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Friday                   998 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Saturday                 2789 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Sunday                   3620 commits        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Almaty
-
-💬 Programming Languages: 
-Python                   5 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Markdown                 4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Other                    2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Nix                      2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-JSON                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-
-🔥 Editors: 
-Zsh Wakatime             24 hrs 14 mins      ████████████████████████░   94.68 % 
-Zsh                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-
-🐱‍💻 Projects: 
-cv                       9 hrs               █████████░░░░░░░░░░░░░░░░   35.20 % 
-ecc-reports              7 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-nix                      4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-transocks-proxy          3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-phd                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-
-💻 Operating System: 
-Mac                      25 hrs 36 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -144,7 +98,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 03:01:56 UTC
+ Last Updated on 25/07/2026 03:03:21 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
