@@ -81,6 +81,54 @@ let adil = {
  > 
 > 🔑 51 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1541 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+🌆 Daytime                5571 commits        ████████░░░░░░░░░░░░░░░░░   30.70 % 
+🌃 Evening                5764 commits        ████████░░░░░░░░░░░░░░░░░   31.76 % 
+🌙 Night                  5273 commits        ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Tuesday                  4026 commits        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Wednesday                3087 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Thursday                 1320 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Friday                   998 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Saturday                 2789 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Sunday                   3620 commits        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Almaty
+
+💬 Programming Languages: 
+Other                    4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Markdown                 3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Nix                      2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Python                   2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+
+🔥 Editors: 
+Zsh Wakatime             17 hrs 6 mins       ███████████████████████░░   93.04 % 
+Zsh                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+
+🐱‍💻 Projects: 
+nix                      7 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.32 % 
+cv                       6 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.93 % 
+ecc-reports              4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+AyuGramDesktop           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+fedmsfusion              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+
+💻 Operating System: 
+Mac                      18 hrs 23 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -98,7 +146,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 03:03:21 UTC
+ Last Updated on 26/07/2026 03:28:16 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
