@@ -63,9 +63,9 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C625%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C630%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -108,25 +108,22 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-Markdown                 3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Nix                      2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Python                   2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Other                    5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.90 % 
+Nix                      4 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.18 % 
+JSON                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+SSH Config               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-Zsh Wakatime             17 hrs 6 mins       ███████████████████████░░   93.04 % 
-Zsh                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Zsh Wakatime             13 hrs 35 mins      ██████████████████████░░░   88.26 % 
+Zsh                      1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 
 🐱‍💻 Projects: 
-nix                      7 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.32 % 
-cv                       6 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.93 % 
-ecc-reports              4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-AyuGramDesktop           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-fedmsfusion              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+nix                      10 hrs 54 mins      ██████████████████░░░░░░░   70.87 % 
+cv                       4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
 
 💻 Operating System: 
-Mac                      18 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +143,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 03:28:16 UTC
+ Last Updated on 27/07/2026 03:37:03 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
