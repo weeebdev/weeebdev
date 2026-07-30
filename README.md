@@ -110,43 +110,42 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    6 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.55 % 
-Nix                      4 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Vue                      3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Other                    6 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.03 % 
+Nix                      4 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+Vue                      2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+SSH Config               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-Zsh Wakatime             17 hrs 53 mins      ███████████████████████░░   90.53 % 
-Zsh                      1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Zsh Wakatime             13 hrs 1 min        ██████████████████████░░░   89.49 % 
+Zsh                      1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 🐱‍💻 Projects: 
-nix                      16 hrs 16 mins      █████████████████████░░░░   82.39 % 
-cv                       3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+nix                      14 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 49 mins (95.34%)
+⏱ AI Coding Time: 13 hrs 45 mins (94.53%)
 
-✍️ 1,343 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 693 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,351,460 Input Tokens, 95,953 Output Tokens
+🔤 1,120,740 Input Tokens, 51,550 Output Tokens
 
-💵 $18.78 Estimated AI Cost This Week
+💵 $8.42 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 286 AI Prompts
+🧠 11 AI Sessions, 193 AI Prompts
 
-OpenCode                 1,522 lines         █████████████████████████   100.00 % 
+OpenCode                 853 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 253 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
+📝 Concise Prompter — average 327 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -167,7 +166,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 03:00:58 UTC
+ Last Updated on 30/07/2026 02:44:58 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
