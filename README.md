@@ -63,9 +63,9 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C166%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -75,7 +75,7 @@ let adil = {
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 949 Contributions in the Year 2026
+> 🏆 950 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -86,8 +86,8 @@ let adil = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1541 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-🌆 Daytime                5571 commits        ████████░░░░░░░░░░░░░░░░░   30.70 % 
+🌞 Morning                1542 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+🌆 Daytime                5571 commits        ████████░░░░░░░░░░░░░░░░░   30.69 % 
 🌃 Evening                5764 commits        ████████░░░░░░░░░░░░░░░░░   31.76 % 
 🌙 Night                  5273 commits        ███████░░░░░░░░░░░░░░░░░░   29.05 % 
 ```
@@ -99,8 +99,8 @@ Tuesday                  4026 commits        ██████░░░░░�
 Wednesday                3087 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 Thursday                 1320 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 Friday                   998 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Saturday                 2789 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Sunday                   3620 commits        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Saturday                 2790 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Sunday                   3620 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 ```
 
 
@@ -110,44 +110,46 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    7 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.74 % 
-Nix                      3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Vue                      3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Go                       43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Text                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Other                    7 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.54 % 
+Vue                      5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Nix                      3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Go                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-Zsh Wakatime             10 hrs 48 mins      █████████████████░░░░░░░░   67.07 % 
-OpenCode                 2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Zsh                      2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Zsh Wakatime             10 hrs 6 mins       █████████████░░░░░░░░░░░░   52.11 % 
+OpenCode                 6 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Zsh                      2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 
 🐱‍💻 Projects: 
-nix                      16 hrs 6 mins       █████████████████████████   100.00 % 
+nix                      16 hrs 55 mins      ██████████████████████░░░   87.24 % 
+keden-crm-web            1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+keden-crm-api            1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 💻 Operating System: 
-Mac                      16 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      19 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 32 mins (90.26%)
+⏱ AI Coding Time: 17 hrs 26 mins (89.87%)
 
-✍️ 2,173 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,531 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,770,903 Input Tokens, 87,588 Output Tokens
+🔤 3,008,603 Input Tokens, 122,754 Output Tokens
 
-💵 $10.06 Estimated AI Cost This Week
+💵 $13.44 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 168 AI Prompts
+🧠 16 AI Sessions, 230 AI Prompts
 
-Deepseek                 1,872 lines         ████████████████████░░░░░   80.14 % 
-OpenCode                 464 lines           █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Deepseek                 2,378 lines         █████████████████████░░░░   84.84 % 
+OpenCode                 425 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 259 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📝 Concise Prompter — average 222 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -168,7 +170,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 03:26:13 UTC
+ Last Updated on 01/08/2026 03:26:53 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
