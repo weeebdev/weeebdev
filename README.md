@@ -63,9 +63,9 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C174%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-192%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -75,31 +75,31 @@ let adil = {
 
 > 📦 3.0 MB Used in GitHub's Storage 
  > 
-> 🏆 950 Contributions in the Year 2026
+> 🏆 956 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 95 Public Repositories 
+> 📜 96 Public Repositories 
  > 
 > 🔑 51 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1542 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-🌆 Daytime                5571 commits        ████████░░░░░░░░░░░░░░░░░   30.69 % 
-🌃 Evening                5764 commits        ████████░░░░░░░░░░░░░░░░░   31.76 % 
-🌙 Night                  5273 commits        ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+🌞 Morning                1545 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+🌆 Daytime                5573 commits        ████████░░░░░░░░░░░░░░░░░   30.70 % 
+🌃 Evening                5764 commits        ████████░░░░░░░░░░░░░░░░░   31.75 % 
+🌙 Night                  5273 commits        ███████░░░░░░░░░░░░░░░░░░   29.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   2309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 Tuesday                  4026 commits        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Wednesday                3087 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Wednesday                3087 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 Thursday                 1320 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 Friday                   998 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Saturday                 2790 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Saturday                 2795 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
 Sunday                   3620 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 ```
 
@@ -110,46 +110,46 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    7 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.54 % 
-Vue                      5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Nix                      3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Go                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Other                    5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Vue                      5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+YAML                     4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Nix                      3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Go                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 🔥 Editors: 
-Zsh Wakatime             10 hrs 6 mins       █████████████░░░░░░░░░░░░   52.11 % 
-OpenCode                 6 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
-Zsh                      2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+OpenCode                 11 hrs 6 mins       ████████████░░░░░░░░░░░░░   48.07 % 
+Zsh Wakatime             8 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
+Zsh                      3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
 
 🐱‍💻 Projects: 
-nix                      16 hrs 55 mins      ██████████████████████░░░   87.24 % 
-keden-crm-web            1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-keden-crm-api            1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+nix                      15 hrs 48 mins      █████████████████░░░░░░░░   68.43 % 
+keden-crm-web            6 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+keden-crm-api            1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 💻 Operating System: 
-Mac                      19 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 26 mins (89.87%)
+⏱ AI Coding Time: 20 hrs 55 mins (90.52%)
 
-✍️ 2,531 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,915 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,008,603 Input Tokens, 122,754 Output Tokens
+🔤 4,104,262 Input Tokens, 157,320 Output Tokens
 
-💵 $13.44 Estimated AI Cost This Week
+💵 $11.33 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 230 AI Prompts
+🧠 21 AI Sessions, 319 AI Prompts
 
-Deepseek                 2,378 lines         █████████████████████░░░░   84.84 % 
-OpenCode                 425 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Deepseek                 2,765 lines         ██████████████████████░░░   86.87 % 
+OpenCode                 418 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 222 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📝 Concise Prompter — average 255 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -170,7 +170,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 03:26:53 UTC
+ Last Updated on 02/08/2026 03:25:44 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
