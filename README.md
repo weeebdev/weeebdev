@@ -63,9 +63,9 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C174%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C175%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-192%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -110,46 +110,46 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-Vue                      5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-YAML                     4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Nix                      3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Go                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Vue                      5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Other                    4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+YAML                     4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Go                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Nix                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🔥 Editors: 
-OpenCode                 11 hrs 6 mins       ████████████░░░░░░░░░░░░░   48.07 % 
-Zsh Wakatime             8 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
-Zsh                      3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+OpenCode                 11 hrs 50 mins      ███████████████░░░░░░░░░░   58.73 % 
+Zsh Wakatime             6 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.09 % 
+Zsh                      2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 
 🐱‍💻 Projects: 
-nix                      15 hrs 48 mins      █████████████████░░░░░░░░   68.43 % 
-keden-crm-web            6 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-keden-crm-api            1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+nix                      12 hrs 7 mins       ███████████████░░░░░░░░░░   60.19 % 
+keden-crm-web            6 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
+keden-crm-api            1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 💻 Operating System: 
-Mac                      23 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 55 mins (90.52%)
+⏱ AI Coding Time: 18 hrs 15 mins (90.59%)
 
-✍️ 2,915 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,862 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,104,262 Input Tokens, 157,320 Output Tokens
+🔤 4,116,849 Input Tokens, 154,130 Output Tokens
 
-💵 $11.33 Estimated AI Cost This Week
+💵 $10.98 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 319 AI Prompts
+🧠 21 AI Sessions, 281 AI Prompts
 
-Deepseek                 2,765 lines         ██████████████████████░░░   86.87 % 
-OpenCode                 418 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Deepseek                 2,860 lines         ███████████████████████░░   91.99 % 
+OpenCode                 249 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 255 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
+📝 Concise Prompter — average 206 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -170,7 +170,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 03:25:44 UTC
+ Last Updated on 03/08/2026 03:28:38 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
