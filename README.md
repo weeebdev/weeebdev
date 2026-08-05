@@ -110,46 +110,46 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-YAML                     5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-Vue                      5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-Other                    2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Go                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Nix                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+YAML                     5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.73 % 
+Vue                      2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Other                    2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Go                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Nix                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 
 🔥 Editors: 
-OpenCode                 14 hrs 19 mins      █████████████████░░░░░░░░   69.65 % 
-Zsh Wakatime             3 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Zsh                      2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+OpenCode                 14 hrs 19 mins      █████████████████████░░░░   84.22 % 
+Zsh                      2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Zsh Wakatime             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🐱‍💻 Projects: 
-nix                      9 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.42 % 
-keden-crm-web            9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.76 % 
-keden-crm-api            1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+keden-crm-web            9 hrs 24 mins       ██████████████░░░░░░░░░░░   55.34 % 
+nix                      6 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.62 % 
+keden-crm-api            1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 
 💻 Operating System: 
-Mac                      20 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 37 mins (90.57%)
+⏱ AI Coding Time: 15 hrs 15 mins (89.71%)
 
-✍️ 3,136 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,027 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,653,469 Input Tokens, 156,972 Output Tokens
+🔤 5,438,570 Input Tokens, 147,538 Output Tokens
 
-💵 $15.35 Estimated AI Cost This Week
+💵 $14.56 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 317 AI Prompts
+🧠 23 AI Sessions, 280 AI Prompts
 
-Deepseek                 3,134 lines         ███████████████████████░░   92.64 % 
-OpenCode                 249 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Deepseek                 3,134 lines         █████████████████████████   99.68 % 
+OpenCode                 10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 268 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📝 Concise Prompter — average 287 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -170,7 +170,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 02:55:47 UTC
+ Last Updated on 05/08/2026 02:55:30 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
