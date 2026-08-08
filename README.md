@@ -63,6 +63,10 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C192%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.82%20million%20lines%20of%20code-blue?style=flat)
@@ -79,6 +83,81 @@ let adil = {
  > 
 > 🔑 51 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1545 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+🌆 Daytime                5578 commits        ████████░░░░░░░░░░░░░░░░░   30.69 % 
+🌃 Evening                5764 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
+🌙 Night                  5289 commits        ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2314 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Tuesday                  4026 commits        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Wednesday                3087 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Thursday                 1320 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Friday                   998 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Saturday                 2811 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Sunday                   3620 commits        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Almaty
+
+💬 Programming Languages: 
+YAML                     7 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+Nix                      4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Other                    3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Docker                   2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+JSON                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+
+🔥 Editors: 
+OpenCode                 19 hrs 5 mins       █████████████████░░░░░░░░   68.27 % 
+Cursor                   5 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Zsh                      3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Zsh Wakatime             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+
+🐱‍💻 Projects: 
+keden-crm-web            25 hrs 56 mins      ███████████████████████░░   92.77 % 
+obu.gov.kz               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+adil                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+tmp                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+terminals                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+
+💻 Operating System: 
+Mac                      27 hrs 57 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs 26 mins (90.98%)
+
+✍️ 2,948 lines written by AI, 4 lines written by hand (99.86% AI-written)
+
+🔤 6,509,394 Input Tokens, 130,379 Output Tokens
+
+💵 $17.18 Estimated AI Cost This Week
+
+🧠 32 AI Sessions, 456 AI Prompts
+
+Deepseek                 1,434 lines         █████████████████████░░░░   83.47 % 
+Opus                     194 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Grok                     90 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.86% of written lines came from AI
+📄 Detailed Prompter — average 1,019 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -96,7 +175,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:56:44 UTC
+ Last Updated on 08/08/2026 01:58:02 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
