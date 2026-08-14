@@ -110,51 +110,51 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Text                     4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Nix                      4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Other                    3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-TypeScript               2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-JSON                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Text                     4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+Other                    2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Nix                      2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+TypeScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 33 mins      ██████████████░░░░░░░░░░░   55.20 % 
-OpenCode                 7 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-Zsh                      3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Zsh Wakatime             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Cursor                   14 hrs 33 mins      ███████████████████░░░░░░   76.46 % 
+Zsh                      2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+OpenCode                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Zsh Wakatime             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🐱‍💻 Projects: 
-keden-crm-web            14 hrs 39 mins      ██████████████░░░░░░░░░░░   55.62 % 
-terminals                3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-nix                      1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-obu.gov.kz               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Unknown Project          1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+keden-crm-web            8 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.78 % 
+terminals                3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+nix                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Unknown Project          1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+integration-bus          1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 
 💻 Operating System: 
-Mac                      26 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 4 mins (91.33%)
+⏱ AI Coding Time: 17 hrs 32 mins (92.16%)
 
-✍️ 6,870 lines written by AI, 5 lines written by hand (99.93% AI-written)
+✍️ 6,755 lines written by AI, 5 lines written by hand (99.93% AI-written)
 
-🔤 3,664,412 Input Tokens, 65,636 Output Tokens
+🔤 2,144,249 Input Tokens, 27,270 Output Tokens
 
-💵 $8.97 Estimated AI Cost This Week
+💵 $6.03 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 414 AI Prompts
+🧠 26 AI Sessions, 306 AI Prompts
 
-Grok                     1,805 lines         ███████████████░░░░░░░░░░   59.49 % 
-Deepseek                 534 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Opus                     521 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Composer                 174 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Grok                     1,805 lines         ████████████████░░░░░░░░░   62.39 % 
+Opus                     521 lines           █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Deepseek                 393 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Composer                 174 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 850 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📄 Detailed Prompter — average 655 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
@@ -175,7 +175,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 02:22:23 UTC
+ Last Updated on 14/08/2026 02:18:45 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
