@@ -87,7 +87,7 @@ let adil = {
 
 ```text
 🌞 Morning                1545 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-🌆 Daytime                5577 commits        ████████░░░░░░░░░░░░░░░░░   30.68 % 
+🌆 Daytime                5578 commits        ████████░░░░░░░░░░░░░░░░░   30.69 % 
 🌃 Evening                5764 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
 🌙 Night                  5291 commits        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
 ```
@@ -97,10 +97,10 @@ let adil = {
 Monday                   2314 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 Tuesday                  4026 commits        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
 Wednesday                3089 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Thursday                 1319 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Thursday                 1320 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 Friday                   998 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 Saturday                 2811 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Sunday                   3620 commits        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Sunday                   3620 commits        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
 ```
 
 
@@ -110,52 +110,52 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Text                     4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-Other                    2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Nix                      2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-TypeScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Text                     4 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.97 % 
+Other                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Nix                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 33 mins      ███████████████████░░░░░░   76.46 % 
-Zsh                      2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-OpenCode                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Zsh Wakatime             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Cursor                   9 hrs 23 mins       ████████████████████░░░░░   78.07 % 
+Zsh                      1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+OpenCode                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Zsh Wakatime             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🐱‍💻 Projects: 
-keden-crm-web            8 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.78 % 
-terminals                3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-nix                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Unknown Project          1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-integration-bus          1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+terminals                3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+keden-crm-web            2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+nix                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+integration-bus          1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Unknown Project          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 💻 Operating System: 
-Mac                      19 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 32 mins (92.16%)
+⏱ AI Coding Time: 11 hrs 11 mins (93.0%)
 
-✍️ 6,755 lines written by AI, 5 lines written by hand (99.93% AI-written)
+✍️ 4,946 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 2,144,249 Input Tokens, 27,270 Output Tokens
+🔤 1,020,315 Input Tokens, 10,608 Output Tokens
 
-💵 $6.03 Estimated AI Cost This Week
+💵 $3.31 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 306 AI Prompts
+🧠 18 AI Sessions, 219 AI Prompts
 
-Grok                     1,805 lines         ████████████████░░░░░░░░░   62.39 % 
-Opus                     521 lines           █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Deepseek                 393 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Composer                 174 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Grok                     1,715 lines         █████████████████░░░░░░░░   66.81 % 
+Deepseek                 351 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Opus                     327 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Composer                 174 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 655 characters per prompt
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 775 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -175,7 +175,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 02:18:45 UTC
+ Last Updated on 15/08/2026 01:30:50 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
