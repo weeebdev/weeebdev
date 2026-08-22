@@ -65,7 +65,7 @@ let adil = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C209%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -87,19 +87,19 @@ let adil = {
 
 ```text
 🌞 Morning                1545 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-🌆 Daytime                5578 commits        ████████░░░░░░░░░░░░░░░░░   30.69 % 
-🌃 Evening                5764 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
-🌙 Night                  5291 commits        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+🌆 Daytime                5578 commits        ████████░░░░░░░░░░░░░░░░░   30.67 % 
+🌃 Evening                5764 commits        ████████░░░░░░░░░░░░░░░░░   31.69 % 
+🌙 Night                  5299 commits        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2314 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Tuesday                  4026 commits        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Monday                   2314 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Tuesday                  4026 commits        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
 Wednesday                3089 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
 Thursday                 1320 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 Friday                   998 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Saturday                 2811 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Saturday                 2819 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
 Sunday                   3620 commits        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
 ```
 
@@ -110,41 +110,41 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Markdown                 1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Other                    1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Text                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Docker                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Markdown                 1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Other                    1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Text                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Docker                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 
 🔥 Editors: 
-OpenCode                 2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.07 % 
-Cursor                   2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
-Zsh                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Zsh Wakatime             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+OpenCode                 3 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.46 % 
+Cursor                   2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
+Zsh                      1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Zsh Wakatime             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🐱‍💻 Projects: 
-integration-bus          3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.75 % 
-ecc-reports              1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-terminals                59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-sdk                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-forti-proxy              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+integration-bus          3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.17 % 
+ecc-reports              1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+terminals                59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+sdk                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+forti-proxy              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 💻 Operating System: 
-Mac                      7 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 2 mins (89.43%)
+⏱ AI Coding Time: 7 hrs 6 mins (89.16%)
 
 ✍️ 2,216 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,338,160 Input Tokens, 51,004 Output Tokens
+🔤 1,449,504 Input Tokens, 51,199 Output Tokens
 
-💵 $4.79 Estimated AI Cost This Week
+💵 $5.13 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 141 AI Prompts
+🧠 9 AI Sessions, 142 AI Prompts
 
 Composer                 1,391 lines         ██████████████░░░░░░░░░░░   57.57 % 
 Grok                     542 lines           ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
@@ -153,19 +153,19 @@ Opus                     68 lines            █░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,029 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
+📄 Detailed Prompter — average 1,054 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Go                       17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Python                   16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+TypeScript               22 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Go                       17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Python                   16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 
 
@@ -175,7 +175,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 01:34:53 UTC
+ Last Updated on 22/08/2026 01:30:37 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
