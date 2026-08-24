@@ -65,7 +65,7 @@ let adil = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C209%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -110,41 +110,41 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Markdown                 1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Other                    1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Text                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Docker                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Markdown                 1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Other                    1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Text                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Docker                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 
 🔥 Editors: 
-OpenCode                 3 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.46 % 
-Cursor                   2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
-Zsh                      1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Zsh Wakatime             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+OpenCode                 3 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.47 % 
+Cursor                   2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.05 % 
+Zsh                      1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Zsh Wakatime             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 🐱‍💻 Projects: 
-integration-bus          3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.17 % 
-ecc-reports              1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-terminals                59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-sdk                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-forti-proxy              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+integration-bus          3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.52 % 
+ecc-reports              1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+terminals                59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+sdk                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+forti-proxy              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 💻 Operating System: 
-Mac                      7 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 6 mins (89.16%)
+⏱ AI Coding Time: 7 hrs 9 mins (88.46%)
 
 ✍️ 2,216 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,449,504 Input Tokens, 51,199 Output Tokens
+🔤 1,698,427 Input Tokens, 51,297 Output Tokens
 
-💵 $5.13 Estimated AI Cost This Week
+💵 $5.88 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 142 AI Prompts
+🧠 10 AI Sessions, 144 AI Prompts
 
 Composer                 1,391 lines         ██████████████░░░░░░░░░░░   57.57 % 
 Grok                     542 lines           ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
@@ -153,8 +153,8 @@ Opus                     68 lines            █░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,054 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📄 Detailed Prompter — average 1,040 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -175,7 +175,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 01:45:16 UTC
+ Last Updated on 24/08/2026 01:37:23 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
