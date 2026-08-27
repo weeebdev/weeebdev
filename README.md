@@ -63,9 +63,9 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C209%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C210%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -110,51 +110,46 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Markdown                 1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Other                    1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Text                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Other                    45 mins             ████████████░░░░░░░░░░░░░   48.35 % 
+GLSL                     32 mins             █████████░░░░░░░░░░░░░░░░   34.82 % 
+Nix                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.63 % 
-OpenCode                 1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-Zsh                      1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Zsh Wakatime             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+OpenCode                 1 hr 5 mins         ██████████████████░░░░░░░   70.44 % 
+Zsh                      24 mins             ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Cursor                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🐱‍💻 Projects: 
-integration-bus          2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
-ecc-reports              1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-terminals                59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-sdk                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-forti-proxy              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+nix                      1 hr 14 mins        █████████████████████░░░░   83.69 % 
+forti-proxy              14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      6 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 49 mins (87.81%)
+⏱ AI Coding Time: 1 hr 5 mins (73.63%)
 
-✍️ 2,201 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 14 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,372,634 Input Tokens, 41,022 Output Tokens
+🔤 431,149 Input Tokens, 2,031 Output Tokens
 
-💵 $5.34 Estimated AI Cost This Week
+💵 $2.50 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 110 AI Prompts
+🧠 3 AI Sessions, 10 AI Prompts
 
-Composer                 1,391 lines         ██████████████░░░░░░░░░░░   57.93 % 
-Grok                     542 lines           ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Deepseek                 400 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Opus                     68 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Deepseek                 92 lines            ███████████░░░░░░░░░░░░░░   45.10 % 
+Opus                     68 lines            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Grok                     44 lines            █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,269 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
+📄 Detailed Prompter — average 521 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -175,7 +170,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 01:38:30 UTC
+ Last Updated on 27/08/2026 08:28:32 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
