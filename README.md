@@ -65,7 +65,7 @@ let adil = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C217%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -110,48 +110,48 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Text                     2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-TypeScript               1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-GLSL                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Other                    2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+Text                     2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+TypeScript               1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+GLSL                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 
 🔥 Editors: 
-OpenCode                 3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.94 % 
-Cursor                   3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.06 % 
-Zsh Wakatime             1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Zsh                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+OpenCode                 3 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.66 % 
+Cursor                   3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.88 % 
+Zsh Wakatime             1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Zsh                      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 
 🐱‍💻 Projects: 
-ecc-reports              3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
-nix                      2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-obu.gov.kz               1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-ebay-mcp                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-terminals                1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+ecc-reports              3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
+nix                      2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+obu.gov.kz               1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+ebay-mcp                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+terminals                1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 
 💻 Operating System: 
-Mac                      10 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      10 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 1 min (90.0%)
+⏱ AI Coding Time: 9 hrs 6 mins (90.36%)
 
 ✍️ 1,895 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,045,847 Input Tokens, 45,559 Output Tokens
+🔤 936,074 Input Tokens, 45,829 Output Tokens
 
-💵 $2.53 Estimated AI Cost This Week
+💵 $2.21 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 177 AI Prompts
+🧠 10 AI Sessions, 175 AI Prompts
 
 Composer                 1,394 lines         ████████████████████░░░░░   79.84 % 
 Deepseek                 352 lines           █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 610 characters per prompt
+📄 Detailed Prompter — average 591 characters per prompt
 🔁 Iterative Prompter — average 18 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -173,7 +173,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 10:27:55 UTC
+ Last Updated on 29/08/2026 06:27:06 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
