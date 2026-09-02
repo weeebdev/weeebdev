@@ -110,56 +110,56 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Other                    2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Text                     2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-TypeScript               1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-GLSL                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Other                    2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Text                     2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+TypeScript               1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+GLSL                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 🔥 Editors: 
-OpenCode                 3 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
-Cursor                   3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
-Zsh Wakatime             1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Zsh                      1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+OpenCode                 3 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.20 % 
+Cursor                   3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
+Zsh Wakatime             1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Zsh                      1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 
 🐱‍💻 Projects: 
-ecc-reports              3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.01 % 
-nix                      2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-obu.gov.kz               1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-ebay-mcp                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-terminals                1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+ecc-reports              3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.15 % 
+nix                      2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+obu.gov.kz               1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+ebay-mcp                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+terminals                1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 
 💻 Operating System: 
-Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 3 mins (91.05%)
+⏱ AI Coding Time: 9 hrs 18 mins (91.24%)
 
 ✍️ 1,895 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 687,151 Input Tokens, 45,731 Output Tokens
+🔤 758,894 Input Tokens, 47,790 Output Tokens
 
-💵 $1.46 Estimated AI Cost This Week
+💵 $1.70 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 173 AI Prompts
+🧠 10 AI Sessions, 179 AI Prompts
 
 Composer                 1,394 lines         ████████████████████░░░░░   79.84 % 
 Deepseek                 352 lines           █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 597 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
+📄 Detailed Prompter — average 584 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+TypeScript               23 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 Go                       17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 Python                   16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
@@ -173,7 +173,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 04:23:13 UTC
+ Last Updated on 02/09/2026 03:47:29 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
