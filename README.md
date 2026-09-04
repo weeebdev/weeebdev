@@ -67,7 +67,7 @@ let adil = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-245%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -110,49 +110,49 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Text                     4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Other                    3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-JSON                     2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-TypeScript               1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-GLSL                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Text                     2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.23 % 
+Other                    1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+JSON                     1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 50 mins       ██████████████░░░░░░░░░░░   56.98 % 
-OpenCode                 2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Zsh Wakatime             2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Zsh                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Cursor                   5 hrs 23 mins       ███████████████████░░░░░░   74.87 % 
+OpenCode                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Zsh Wakatime             35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Zsh                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🐱‍💻 Projects: 
-ecc-reports              3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-obu.gov.kz               3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-terminals                3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-fin-audit                1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-nix                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+obu.gov.kz               2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+terminals                2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+fin-audit                1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+uploads                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Mac                      15 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 18 mins (92.21%)
+⏱ AI Coding Time: 6 hrs 44 mins (93.58%)
 
-✍️ 2,915 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,034 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 876,616 Input Tokens, 86,630 Output Tokens
+🔤 335,357 Input Tokens, 46,967 Output Tokens
 
-💵 $2.83 Estimated AI Cost This Week
+💵 $1.71 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 276 AI Prompts
+🧠 10 AI Sessions, 119 AI Prompts
 
-Composer                 2,437 lines         ██████████████████████░░░   87.82 % 
-Deepseek                 338 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Composer                 1,043 lines         █████████████████████████   100.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 635 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
+📄 Detailed Prompter — average 677 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -173,7 +173,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 03:45:32 UTC
+ Last Updated on 04/09/2026 03:45:54 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
