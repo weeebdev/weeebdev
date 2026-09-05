@@ -110,49 +110,49 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Text                     2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.23 % 
-Other                    1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-JSON                     1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Text                     2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.72 % 
+JSON                     1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Other                    57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 23 mins       ███████████████████░░░░░░   74.87 % 
-OpenCode                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Zsh Wakatime             35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Zsh                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Cursor                   5 hrs 23 mins       ████████████████████░░░░░   80.31 % 
+Zsh Wakatime             35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Zsh                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+OpenCode                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🐱‍💻 Projects: 
-obu.gov.kz               2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-terminals                2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-fin-audit                1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-uploads                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+terminals                2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.57 % 
+fin-audit                1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+obu.gov.kz               1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+uploads                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 💻 Operating System: 
-Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 44 mins (93.58%)
+⏱ AI Coding Time: 6 hrs 15 mins (93.12%)
 
 ✍️ 1,034 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 335,357 Input Tokens, 46,967 Output Tokens
+🔤 311,751 Input Tokens, 43,800 Output Tokens
 
-💵 $1.71 Estimated AI Cost This Week
+💵 $1.59 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 119 AI Prompts
+🧠 8 AI Sessions, 112 AI Prompts
 
 Composer                 1,043 lines         █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 677 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📄 Detailed Prompter — average 649 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -173,7 +173,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 03:45:54 UTC
+ Last Updated on 05/09/2026 03:45:43 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
