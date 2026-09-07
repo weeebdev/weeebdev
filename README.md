@@ -63,11 +63,11 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C222%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C226%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-245%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -110,49 +110,51 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Text                     2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.70 % 
-JSON                     1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-Other                    58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Text                     3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.38 % 
+Markdown                 2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+JSON                     1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Other                    1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 23 mins       ████████████████████░░░░░   80.28 % 
-Zsh Wakatime             35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Zsh                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-OpenCode                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Cursor                   5 hrs 24 mins       █████████████░░░░░░░░░░░░   53.61 % 
+Claude Code              2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+OpenCode                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Zsh                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Zsh Wakatime             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🐱‍💻 Projects: 
-terminals                2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.56 % 
-fin-audit                1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-obu.gov.kz               1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-uploads                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+obu.gov.kz               2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+phd                      2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+terminals                2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+fin-audit                1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+uploads                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 
 💻 Operating System: 
-Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 15 mins (93.08%)
+⏱ AI Coding Time: 9 hrs 28 mins (93.93%)
 
-✍️ 1,034 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,358 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 311,751 Input Tokens, 43,800 Output Tokens
+🔤 17,017,748 Input Tokens, 130,591 Output Tokens
 
-💵 $1.59 Estimated AI Cost This Week
+💵 $34.84 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 112 AI Prompts
+🧠 14 AI Sessions, 166 AI Prompts
 
-Composer                 1,043 lines         █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 1,043 lines         ███████████████████░░░░░░   76.30 % 
+Sonnet                   309 lines           ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Deepseek                 15 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 649 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📝 Concise Prompter — average 486 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -173,7 +175,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 03:47:57 UTC
+ Last Updated on 07/09/2026 03:48:25 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
