@@ -67,7 +67,7 @@ let adil = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-260%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -110,25 +110,25 @@ Sunday                   3620 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Markdown                 6 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.72 % 
+Markdown                 6 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.73 % 
 Text                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 Nix                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 50 mins       █████████████░░░░░░░░░░░░   53.47 % 
+Claude Code              8 hrs 50 mins       █████████████░░░░░░░░░░░░   53.48 % 
 Cursor                   5 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.38 % 
-Zsh                      1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Zsh                      1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 OpenCode                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 Zsh Wakatime             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🐱‍💻 Projects: 
-phd                      4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+phd                      4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.34 % 
 sdu-api                  4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
 ecc-reports              3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
 inf345                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-obu.gov.kz               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+obu.gov.kz               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 💻 Operating System: 
 Mac                      16 hrs 32 mins      █████████████████████████   100.00 % 
@@ -137,7 +137,7 @@ Mac                      16 hrs 32 mins      ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 27 mins (93.46%)
+⏱ AI Coding Time: 15 hrs 27 mins (93.47%)
 
 ✍️ 8,741 lines written by AI, 3 lines written by hand (99.97% AI-written)
 
@@ -176,7 +176,7 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 03:57:52 UTC
+ Last Updated on 13/09/2026 04:05:11 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
