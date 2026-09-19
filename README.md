@@ -63,9 +63,9 @@ let adil = {
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C252%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C253%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-276%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-277%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue?style=flat)
 
@@ -110,41 +110,41 @@ Sunday                   3621 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-TypeScript               5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Other                    2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-YAML                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-JavaScript               2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-HTML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+TypeScript               5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+Other                    2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+YAML                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+JavaScript               2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+HTML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 40 mins      ████████████████░░░░░░░░░   62.73 % 
-Cursor                   4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-Zsh                      2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Zsh Wakatime             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Claude Code              12 hrs 8 mins       █████████████████░░░░░░░░   66.16 % 
+Cursor                   3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Zsh                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Zsh Wakatime             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🐱‍💻 Projects: 
-maru                     5 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-inf345                   4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-keden-crm-web            2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-sdu-api                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-ecc-reports              1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+maru                     5 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+inf345                   4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+keden-crm-web            2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+ecc-reports              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+sdu-api                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 💻 Operating System: 
-Mac                      18 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 32 mins (88.95%)
+⏱ AI Coding Time: 16 hrs 15 mins (88.65%)
 
 ✍️ 14,605 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 1,078,327,817 Input Tokens, 1,598,140 Output Tokens
+🔤 1,108,273,470 Input Tokens, 1,652,692 Output Tokens
 
-💵 $2191.34 Estimated AI Cost This Week
+💵 $2251.37 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 254 AI Prompts
+🧠 20 AI Sessions, 245 AI Prompts
 
 Sonnet                   12,711 lines        ████████████████████████░   94.33 % 
 Grok                     763 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
@@ -153,8 +153,8 @@ Composer                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 415 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📝 Concise Prompter — average 426 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
@@ -175,7 +175,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 04:03:25 UTC
+ Last Updated on 19/09/2026 03:59:37 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
