@@ -110,49 +110,49 @@ Sunday                   3794 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Almaty
 
 💬 Programming Languages: 
-Nix                      10 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   30.40 % 
-TypeScript               7 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-YAML                     5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Other                    2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Markdown                 2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Nix                      10 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   31.10 % 
+TypeScript               6 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+YAML                     5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Other                    2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Markdown                 2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 🔥 Editors: 
-Claude Code              34 hrs 51 mins      ████████████████████████░   97.93 % 
-Zsh                      42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Claude Code              34 hrs 4 mins       ████████████████████████░   97.88 % 
+Zsh                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-nix                      14 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   41.58 % 
-inf345                   10 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-security-audit           3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-tailnet                  2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-obu.gov.kz               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+nix                      14 hrs 48 mins      ███████████░░░░░░░░░░░░░░   42.53 % 
+inf345                   10 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+security-audit           3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+tailnet                  2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+obu.gov.kz               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
-Mac                      35 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 13 mins (98.95%)
+⏱ AI Coding Time: 34 hrs 25 mins (98.93%)
 
-✍️ 16,973 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 16,798 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,925,358,082 Input Tokens, 3,581,340 Output Tokens
+🔤 2,902,867,287 Input Tokens, 3,518,378 Output Tokens
 
-💵 $10293.54 Estimated AI Cost This Week
+💵 $10247.93 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 589 AI Prompts
+🧠 30 AI Sessions, 574 AI Prompts
 
-Sonnet                   9,818 lines         ██████████████░░░░░░░░░░░   54.57 % 
-Opus                     7,153 lines         ██████████░░░░░░░░░░░░░░░   39.76 % 
-Fable                    1,021 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Sonnet                   9,643 lines         ██████████████░░░░░░░░░░░   54.12 % 
+Opus                     7,153 lines         ██████████░░░░░░░░░░░░░░░   40.15 % 
+Fable                    1,021 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 705 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
+📄 Detailed Prompter — average 722 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -173,7 +173,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/weeebdev/weeebdev/master/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 04:26:25 UTC
+ Last Updated on 27/09/2026 04:39:55 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
